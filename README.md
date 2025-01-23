@@ -6,11 +6,12 @@ I am a Physicist who loves programming. Here you will find my projects and exper
 ---
 
 ### My research interests
-- **Simulation of Quantum Systems**: Numerical methods and algorithms for simulating quantum phenomena and quantum nature. (DFT, DMRG, Pseudo-Spectral Methods, etc.)
+- **Simulation of Quantum Systems**: Numerical methods and algorithms for simulating quantum phenomena and quantum nature. (DFT, DMRG, Pseudo-Spectral Methods, Numerov etc.)
 - **Quantum Algorithms**: Use and development of frameworks (Qiskit, PennyLane, etc.) with the aim of creating more accessible and efficient tools for quantum research and its practical applications.
-- **Quantum Optics**
+- **Data Science**
 - **Machine Learning**
 - **Optimization Algorithms**
+- - **Quantum Optics** | **Nonlinear Optics** | **Ultrafast Optics** | **Lasers**
 
 ---
 
