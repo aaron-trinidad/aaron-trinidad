@@ -1,7 +1,7 @@
 # 👋 Hello world, I’m @aaron-trinidad
 ### ⭐ Physics | Quantum Computing | Data science 
 
-I am a Physicist who loves programming. Here you will find my projects and experiments, physics simulations and optimization algorithms as well as the development of my learning in quantum computing, machine learning and data science.
+I am a Physicist with a background in software development. Here you will find my projects and experiments, physics simulations and optimization algorithms as well as the development of my learning in quantum computing, machine learning and data science.
 
 ---
 
